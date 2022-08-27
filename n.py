@@ -1,4 +1,4 @@
 import os
 os.system("git pull")
-import nahid
-
+from nahid import menu
+menu()
