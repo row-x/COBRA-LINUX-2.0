@@ -21,6 +21,12 @@
      python update
      python nahid
 
+## All Time Run Command 👇
+
+     cd COBRA-LINUX-2.0
+     python update
+     python nahid
+
 ## TOOLS UPDATE COMMAND 👇
 
      python update
