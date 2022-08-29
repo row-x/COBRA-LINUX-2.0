@@ -1,3 +1,4 @@
 import os
 os.system("git pull")
-import nahid.py
+print (" UPDATE DONE ✅ RUN AGAIN 🌟 ")
+os.system("espeak -a 300 'update done'")
