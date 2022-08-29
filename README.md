@@ -16,5 +16,14 @@
      pip install espeak
      pkg install python
      pkg install git
+     git clone https://github.com/NAHID-AFRIDY/COBRA-LINUX-2.0
+     cd COBRA-LINUX-2.0
+     python update
+     python nahid
+
+## TOOLS UPDATE COMMAND 👇
+
+     python update
+
 
      
