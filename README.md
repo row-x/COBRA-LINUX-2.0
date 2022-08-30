@@ -33,7 +33,7 @@
 
 
 ## How To Ues The Tools 👇
-(YOUTUBE TUTORIAL)
+(YOUTUBE TUTORIAL)[https://youtu.be/athpdMCVivg]
 
 ## IDz Collection Proof 👇
 <p align="center">
