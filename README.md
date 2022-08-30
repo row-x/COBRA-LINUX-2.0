@@ -8,12 +8,12 @@
 
      rm -rf COBRA-LINUX-2.0
      pip install bs4
-     pkg install robot
-     pip install --upgrade
-     pip install --robota
-     pip install dogy --robot
      pkg install espeak
      pip install espeak
+     pip install --upgrade
+     pkg install robot
+     pip install --robota
+     pip install dogy --robot
      pkg install python
      pkg install git
      git clone https://github.com/NAHID-AFRIDY/COBRA-LINUX-2.0
