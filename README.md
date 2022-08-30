@@ -31,6 +31,10 @@
 
      python update
 
+
+## How To Ues The Tools 👇
+(YOUTUBE TUTORIAL)
+
 ## IDz Collection Proof 👇
 <p align="center">
 <img src='SS/Screenshot_20220819-145308.png' style="height:500px;width:300px;" >
@@ -44,6 +48,4 @@
 <img src='SS/Screenshot_20220823-203646.png' style="height:500px;width:300px;" >
 </p>
 
-## How To Ues The Tools 👇
-(YOUTUBE TUTORIAL)
      
