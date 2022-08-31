@@ -12,7 +12,7 @@
      pip install espeak
      pip install mpv
      pip install rich
-     pip install --upgrade
+     pip install --upgrade pip
      pkg install robot
      pip install --robota
      pkg install python
