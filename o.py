@@ -4,7 +4,7 @@ os.system("clear")
 # robota system on to now "hy -r robota start npm"/
 os.system("espeak -a 300 'wait a 30 second'")
 os.system("git pull")
-os.system("mpv /COBRA-LINUX-2.0/__ROBOTA-SERVER__/bv/update.mp3")
+os.system("play /COBRA-LINUX-2.0/__ROBOTA-SERVER__/bv/update.mp3")
 print("""
 \033[1;91m╔══════════════════════════════════════════════════════════╗
 \033[1;92m║   _________  ___  ___  ___     __   _____  ____  ___  __ ║
