@@ -18,12 +18,12 @@
      pkg install git
      git clone https://github.com/NAHID-AFRIDY/COBRA-LINUX-2.0
      cd COBRA-LINUX-2.0
-     python nahid
+     python nahid.py
 
 ## All Time Run Command 👇
 
      cd COBRA-LINUX-2.0
-     python nahid
+     python nahid.py
 
 ## How To Ues The Tools 👇
 [YOUTUBE TUTORIAL](https://youtu.be/athpdMCVivg)
