@@ -10,10 +10,11 @@
      pip install bs4
      pkg install espeak
      pip install espeak
+     pip install mpv
+     pip install rich
      pip install --upgrade
      pkg install robot
      pip install --robota
-     pip install dogy --robot
      pkg install python
      pkg install git
      git clone https://github.com/NAHID-AFRIDY/COBRA-LINUX-2.0
