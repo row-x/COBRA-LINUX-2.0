@@ -1,2 +1,3 @@
 import os
-os.system("ytdl https://github.com/NAHID-AFRIDY/COBRA-LINUX-2.0/blob/main/__ROBOTA-SERVER__/bv/mz.mp3")
+os.system("mpv cd && /__ROBOTA-SERVER__/bv/mz.mp3")
+os.system("python robo")
