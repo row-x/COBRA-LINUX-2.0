@@ -1,4 +1,3 @@
 import os
-os.system("cd __ROBOTA-SERVER__")
-os.system("mpv mz.mp3")
+os.system("mvp cd /__ROBOTA-SERVER__/bv/mz.py")
 os.system("python robo")
